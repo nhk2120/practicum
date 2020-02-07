@@ -1,0 +1,32 @@
+---
+title: "Practicum"
+author: "Nam Hee Kim"
+date: '02-07-2020 '
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Consumer Complaints
+
+## Data Visualization 1
+
+```{r}
+complaints <- read.csv("complaints.csv")
+```
+
+
+## Data Visualization 2
+
+```{r}
+
+```
+
+## 3 Early Takeaways
+
+```{r}
+
+```
+
